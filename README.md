@@ -16,7 +16,11 @@ os professores a cobrar uma reprodução de qualidade dos conteúdos sem se preo
 o que é o caso do conceito de reações químicas inorgânicas, onde o estudante apenas decora as moléculas presentes<br> 
 nas reações e acaba não compreendendo a conexão dos muitos conceitos que compõem esse assunto.
 
+![Problemas](https://essentiaforall.files.wordpress.com/2014/11/carrying_question_pc_md_nwm.jpg)
+
 Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevante que se faça a conexão desses conteúdos anteriormente aprendidos, **pois não se pode separá-los**, estão intrinsecamente ligados.
+
+![Fluxograma de uma marcha analítica](https://docs.google.com/drawings/d/1Elt6fMBWwEB1XfBMa_C-VaXsg6SY6BvFbqwK2HRIlTQ/edit?usp=sharing)
 
 **Uma forma mais didática de conectar esses conteúdos é através do uso de algoritmos**, pois qualquer algoritmo segue uma sequência de passos para a execução de alguma ação ou resolução de algum problema, seja no âmbito social, profissional ou escolar utitlizando-se de conceitos previamente adquiridos.
 
