@@ -5,7 +5,7 @@
 O objetivo principal do [Projeto Pedagógico da Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool/blob/master/projeto%20atualizado.md) é criar um conteúdo interdisciplinar que unirá o ensino da Química<br>
 com os conceitos da Programação.
 
-![Químico](/static/heroes/img/img-specials-data-scientist.svg)
+![Químico](https://www.amherst.edu/system/files/styles/original/private/ninja-04-desk_0.jpg)
 
 Promover a melhora do processo de ensino-aprendizagem do conceito de Reações Químicas Inorgânicas para alunos de Ensino Médio por meio de algoritmo.
 
