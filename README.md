@@ -5,7 +5,7 @@
 O objetivo principal do [Projeto Pedagógico da Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool/blob/master/projeto%20atualizado.md) é criar um conteúdo interdisciplinar que una o ensino da Química<br>
 com os conceitos da Programação. 
 
-- Química com Programação? Uouu!!
+> Química com Programação? Uouu!!
 
 > Aí sim vc vira ninja!!
 
@@ -30,6 +30,10 @@ Segundo o professor Juan Ignacio Pozo Municio do Departamento de Psicologia Bás
 
 ![Pozo](http://2.bp.blogspot.com/--oeN6BQMgxY/TvIwI6C8l2I/AAAAAAAABFM/gNzNk3pbjlc/s200/apozo.jpg)
 
-- Sabe o porquê citei o professor Pozo?
+> Sabe o porquê citei o professor Pozo?
+
+> - Achei interessante compartilhar com vc!
+
+No decorrer da minha pesquisa para o embasamento teórico do Projeto Pedagógico
 
 
