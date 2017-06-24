@@ -20,7 +20,7 @@ nas reações e acaba não compreendendo a conexão dos muitos conceitos que com
 
 Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevante que se faça a conexão desses conteúdos anteriormente aprendidos, **pois não se pode separá-los**, estão intrinsecamente ligados.
 
-![Fluxograma de uma marcha analítica](https://scontent.fbfh4-1.fna.fbcdn.net/v/t34.0-12/19433472_1582540775140549_779653006_n.jpg?oh=fd7fa78807cf6b82a0bf1c0d754efbff&oe=594F156F)
+![Fluxograma de uma marcha analítica](http://imgur.com/a/5fyDk)
 
 **Uma forma mais didática de conectar esses conteúdos é através do uso de algoritmos**, pois qualquer algoritmo segue uma sequência de passos para a execução de alguma ação ou resolução de algum problema, seja no âmbito social, profissional ou escolar utitlizando-se de conceitos previamente adquiridos.
 
