@@ -32,8 +32,4 @@ Segundo o professor Juan Ignacio Pozo Municio do Departamento de Psicologia Bás
 
 > Sabe o porquê citei o professor Pozo?
 
-> - Achei interessante compartilhar com vc!
-
-No decorrer da minha pesquisa para o embasamento teórico do Projeto Pedagógico
-
-
+Pq quando pesquisei citações referentes a utlização de algoritmos no ensino de Química encontrei apenas uma citação do professor Pozo que foi realmente relevante em relação ao assunto.
