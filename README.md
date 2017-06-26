@@ -1,9 +1,10 @@
-# Ensino de Reações Químicas Inorgânicas por meio de Algoritmo
+# Ensino de Reações Químicas Inorgânicas<br> 
+# por meio de Algoritmo
 
 ![Reação Química](http://4.bp.blogspot.com/-MGDGnkG7CWc/UTkW9juxDGI/AAAAAAAAFxE/vKKlfZZdz5Q/s200/01.gif)
 
-O objetivo principal do [Projeto Pedagógico da Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool/blob/master/projeto%20atualizado.md) é criar um conteúdo interdisciplinar que una o ensino da Química<br>
-com os conceitos da Programação. 
+O objetivo principal do [Projeto Pedagógico da Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool/blob/master/projeto%20atualizado.md) é criar um conteúdo<br> 
+interdisciplinar que una o ensino da Química com os conceitos da Programação. 
 
 <br>
 
