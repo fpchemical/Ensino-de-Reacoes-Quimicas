@@ -5,11 +5,28 @@
 O objetivo principal do [Projeto Pedagógico da Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool/blob/master/projeto%20atualizado.md) é criar um conteúdo interdisciplinar que una o ensino da Química<br>
 com os conceitos da Programação. 
 
-> Química com Programação? Uouu!!
+<br>
 
-> Aí sim vc vira ninja!!
+> **Química com Programação? Uouu!!**
+
+<br>
 
 ![Químico](https://www.amherst.edu/system/files/styles/original/private/ninja-04-desk_0.jpg)
+
+
+<br>
+
+> **Aí sim vc vira ninja!!**
+
+<br>
+
+![](https://camo.githubusercontent.com/dcf168b1fcc1779098118acf8fd347faa4250c53/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b647a4638584c4533467758652f67697068792e676966)
+
+<br>
+<br>
+
+
+#### Reformulando: você vira um Super Saiyajin!
 
 Atualmente a forma que o sistema educacional estruturou a ementa de Química do Ensino Médio força<br> 
 os professores a cobrar uma reprodução de qualidade dos conteúdos sem se preocupar com a compreensão dos mesmos,<br>
@@ -20,7 +37,7 @@ nas reações e acaba não compreendendo a conexão dos muitos conceitos que com
 
 Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevante que se faça a conexão desses conteúdos anteriormente aprendidos, **pois não se pode separá-los**, estão intrinsecamente ligados.
 
-![Fluxograma de uma marcha analítica](http://imgur.com/a/5fyDk)
+![Fluxograma de uma marcha analítica](http://i.imgur.com/PCSGvq2.jpg)
 
 **Uma forma mais didática de conectar esses conteúdos é através do uso de algoritmos**, pois qualquer algoritmo segue uma sequência de passos para a execução de alguma ação ou resolução de algum problema, seja no âmbito social, profissional ou escolar utitlizando-se de conceitos previamente adquiridos.
 
