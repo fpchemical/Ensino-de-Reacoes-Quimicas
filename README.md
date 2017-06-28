@@ -30,14 +30,29 @@ interdisciplinar que una o ensino da Química com os conceitos da Programação.
 
 #### Reformulando: você vira um Super Saiyajin!
 
+<br>
+<br>
+
 
 > - Mas como vc vira um Super Saiyajin?
 
 > - Eu explico!
 
-Fazendo o [Curso-JavaScript-Super-Sayajin](https://github.com/suissa/Curso-JavaScript-Super-Sayajin) 
+<br>
 
-Curso COMPLETO de JavaScript do básico ao avançado!!
+
+### Fazendo o [Curso-JavaScript-Super-Sayajin](https://github.com/suissa/Curso-JavaScript-Super-Sayajin) 
+
+
+
+Um curso COMPLETO de JavaScript do básico ao avançado que está sendo desenvolvido pelo professor @suissa<br>
+
+
+
+Os conteúdos serão contextualizados com as matérias de exatas: Matemática, Química e Física para que haja uma<br> interdisciplinaridade entre disciplinas aparentemente distintas.  A interdisciplinaridade visa garantir a<br>
+construção de um conhecimento globalizante, rompendo com os limites das disciplinas.
+
+
 
 Atualmente a forma que o sistema educacional estruturou a ementa de Química do Ensino Médio força<br> 
 os professores a cobrar uma reprodução de qualidade dos conteúdos sem se preocupar com a compreensão dos mesmos,<br>
