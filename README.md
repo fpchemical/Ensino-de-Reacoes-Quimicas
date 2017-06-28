@@ -1,7 +1,6 @@
 # Ensino de Reações Químicas Inorgânicas<br> 
 # por meio de Algoritmo
 
-<h1 style="color:red;text-align='center'">Testeee</h1>
 
 ![Reação Química](http://4.bp.blogspot.com/-MGDGnkG7CWc/UTkW9juxDGI/AAAAAAAAFxE/vKKlfZZdz5Q/s200/01.gif)
 
