@@ -82,8 +82,11 @@ Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevant
 
 Segundo o professor Juan Ignacio Pozo Municio do Departamento de Psicologia Básica da Universidade Autónoma de Madrid, os alunos devem utilizar algoritmos como ferramenta de resolução de problemas quantitativos, essa prática pode gerar nos alunos a possibilidade de sucesso na resolução de problemas mais complexos.
 
+
 ![Pozo](http://2.bp.blogspot.com/--oeN6BQMgxY/TvIwI6C8l2I/AAAAAAAABFM/gNzNk3pbjlc/s200/apozo.jpg)
 
+
 > Sabe o porquê citei o professor Pozo?
+
 
 Pq quando pesquisei citações referentes a utlização de algoritmos no ensino de Química encontrei apenas uma citação do professor Pozo que foi realmente relevante em relação ao assunto.
