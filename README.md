@@ -30,6 +30,15 @@ interdisciplinar que una o ensino da Química com os conceitos da Programação.
 
 #### Reformulando: você vira um Super Saiyajin!
 
+
+> - Mas como vc vira um Super Saiyajin?
+
+> - Eu explico!
+
+Fazendo o [Curso-JavaScript-Super-Sayajin](https://github.com/suissa/Curso-JavaScript-Super-Sayajin) 
+
+Curso COMPLETO de JavaScript do básico ao avançado!!
+
 Atualmente a forma que o sistema educacional estruturou a ementa de Química do Ensino Médio força<br> 
 os professores a cobrar uma reprodução de qualidade dos conteúdos sem se preocupar com a compreensão dos mesmos,<br>
 o que é o caso do conceito de reações químicas inorgânicas, onde o estudante apenas decora as moléculas presentes<br> 
