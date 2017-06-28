@@ -43,23 +43,34 @@ interdisciplinar que una o ensino da Química com os conceitos da Programação.
 
 ### Fazendo o [Curso-JavaScript-Super-Sayajin](https://github.com/suissa/Curso-JavaScript-Super-Sayajin) 
 
-
+<br>
+<br>
 
 Um curso COMPLETO de JavaScript do básico ao avançado que está sendo desenvolvido pelo professor @suissa<br>
 
+<br>
+<br>
 
 
 Os conteúdos serão contextualizados com as matérias de exatas: Matemática, Química e Física para que haja uma<br> interdisciplinaridade entre disciplinas aparentemente distintas.  A interdisciplinaridade visa garantir a<br>
 construção de um conhecimento globalizante, rompendo com os limites das disciplinas.
 
-
+<br>
+<br>
 
 Atualmente a forma que o sistema educacional estruturou a ementa de Química do Ensino Médio força<br> 
 os professores a cobrar uma reprodução de qualidade dos conteúdos sem se preocupar com a compreensão dos mesmos,<br>
 o que é o caso do conceito de reações químicas inorgânicas, onde o estudante apenas decora as moléculas presentes<br> 
 nas reações e acaba não compreendendo a conexão dos muitos conceitos que compõem esse assunto.
 
+<br>
+<br>
+
+
 ![Problemas](https://essentiaforall.files.wordpress.com/2014/11/carrying_question_pc_md_nwm.jpg)
+
+<br>
+<br>
 
 Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevante que se faça a conexão desses conteúdos anteriormente aprendidos, **pois não se pode separá-los**, estão intrinsecamente ligados.
 
